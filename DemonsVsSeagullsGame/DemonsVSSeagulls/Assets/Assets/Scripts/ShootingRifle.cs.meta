@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8b4ed47e6d74a1c4ba2949468c1a1f09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletSound: {fileID: 8300000, guid: fd53b16645c33fa4a987f7a9447c835d, type: 3}
+  - BulletTrailPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
